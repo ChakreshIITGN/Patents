@@ -9,3 +9,5 @@ Provided files:
 • EPO_CITATIONS_RAW.txt --> Raw EPO data of all citations between patents.
 
 • IPC_DESCRIPTIONS.txt --> Custom made file that is accessed in order to retrieve the descriptions of the IPC codes.
+
+As of now, some files (Labeled draft) are presented without significant edits and may contain errors, though are still provided in case they are resourceful.
