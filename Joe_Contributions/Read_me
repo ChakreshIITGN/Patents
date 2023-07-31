@@ -4,11 +4,11 @@ IMPORTANT: Remember to adapt the locations of the file imports in the notebooks 
 
 Provided files:
 
-• EPO_PATENTS_RAW.txt --> Raw and original EPO data of all patents according to the inventors.
+• EPO_PATENTS_RAW.txt   --> Raw and original EPO data of all patents according to the inventors.
                         | Number of rows: 9,182,319
                         | Number of columns: 10
                         | Number of unique patents: 3,497,675
-• EPO_IPC_RAW.txt --> Raw and original EPO data of all IPC codes associated to their application ID (There are multiple IPC codes for each ID).
+• EPO_IPC_RAW.txt       --> Raw and original EPO data of all IPC codes associated to their application ID (There are multiple IPC codes for each ID).
                         | Number of rows: 14,184,529
                         | Number of columns: 4
                         | Number of unique patents: 3,507,899
@@ -19,7 +19,7 @@ Provided files:
                         | Number of unique CITED patents: 5,786,461
                         | Number of patents both CITED and CITING (Intersection of both): 819,805
 
-• IPC_DESCRIPTIONS.txt --> Custom made file that is accessed in order to retrieve the descriptions of the IPC codes.
+• IPC_DESCRIPTIONS.txt  --> Custom made file that is accessed in order to retrieve the descriptions of the IPC codes.
                         | Number of rows: 79,736 
                         | Number of columns: 2
 
