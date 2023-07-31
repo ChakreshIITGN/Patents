@@ -1,3 +1,11 @@
 Here I discuss the contents of the supporting files.
 
-Remember to adapt the locations of the file imports in the notebooks to your own device. These are usually of the form: '/Users/username/.../selectedfile.txt'
+IMPORTANT: Remember to adapt the locations of the file imports in the notebooks to your own device. These are usually of the form: '/Users/username/.../selectedfile.txt'
+
+Provided files:
+
+• EPO_PATENTS_RAW.txt --> Raw EPO data of all patents according to the inventors.
+• EPO_IPC_RAW.txt --> Raw EPO data of all IPC codes associated to their application ID (There are multiple IPC codes for each ID).
+• EPO_CITATIONS_RAW.txt --> Raw EPO data of all citations between patents.
+
+• IPC_DESCRIPTIONS.txt --> Custom made file that is accessed in order to retrieve the descriptions of the IPC codes.
