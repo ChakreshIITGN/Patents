@@ -1,1 +1,3 @@
 Here I discuss the contents of the supporting files.
+
+Remember to adapt the locations of the file imports in the notebooks to your own device. These are usually of the form: '/Users/username/.../selectedfile.txt'
